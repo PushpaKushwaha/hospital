@@ -1,0 +1,256 @@
+.head{
+    background-color: #F7F7F7;
+}
+.head a{
+    color: #488305;
+    text-decoration: none;
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+.navbar.navbar-expand-lg.bg-body-tertiary.sticky-top{
+    background-color: #fff !important;
+}
+.nav-link{
+    color: #488305;
+    font-weight: 600;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: white;
+    background-color:#488305 ;
+    border-radius: 13px;
+    transition: 0.5s;
+}
+.front{
+    background: url(/public/img/bg1.jpg);
+}
+.front .box{
+    background-color: #45464A;
+    font-size: 13px;
+    /* color: #707070; */
+    line-height: 22px;
+    padding: 30px 0;
+    text-align: center;
+    width: 500px;
+    border-radius: 6px;
+    margin: 100px 0;
+}
+.box .inp{
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 0;
+    border-radius: 6px;
+}
+.btn{
+    background-color: #8BC34A;
+    transition: 0.5s;
+}
+.btn:hover{
+    background-color: #739B47;
+}
+.about .green{
+    background: #8BC34A;
+    color: #fff;
+    padding: 50px ;
+}
+.green h3{
+    font-size: 35px;
+    font-weight: 500 ;
+    line-height: 42px;
+    margin-bottom: 5%;
+}
+.green h4{
+    font-size: 25px;
+    font-weight: 100 ;
+    line-height: 32px;
+    margin-bottom: 5.5%;
+}
+.green p{
+    font-size: 18px;
+    font-weight: 100 ;
+    line-height: 24px;
+    margin-bottom: 5.5%;
+}
+.service .col-lg-12{
+    margin: 90px 0;
+  }
+.service{
+    background-color: #F7F7F7;
+}
+.service img{
+    margin-bottom: 10%;
+
+}
+.service h3{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    margin-bottom: 2%;
+}
+.service p{
+    font-size: 18px;
+    line-height: 25px;
+    color: #707070;
+    margin-bottom: 35%;
+}
+.department .col-lg-12{
+    margin-bottom: 90px;
+    margin-top: 30px;
+}
+.department ul{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.department li{
+    list-style: none;
+ }
+.department a{
+     text-decoration: none;
+     text-transform: uppercase;
+     cursor: pointer;
+     font-size: 16px;
+     font-weight: 600;
+     line-height: 30px;
+     color: #707070; 
+     padding-bottom: 5px; 
+     border-bottom: 1px solid #707070;
+ }
+ .department a:hover{
+    color: #000;
+ }
+ .department .col-lg-4{
+    background-color: #2E5BA5;
+    padding: 30px;
+    color: #fff;
+
+ }
+ .col-lg-4.my-3.desc h2{
+    font-size: 30px;
+    line-height: 35px;
+    font-weight: 300;
+    margin-bottom: -25px;
+    margin-top: 50px;
+ }
+ .col-lg-4.my-3.desc p{
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 300;
+    margin:50px;
+ }
+ .department .btn{
+    border-radius: 20px;
+    background-color: #fff;
+    color: #2E5BA5;
+    font-weight: bold;
+    padding: 10px 20px;
+ }
+ .department img{
+    height: 550px;
+ }
+ .team .col-lg-12{
+    margin-bottom: 90px;
+    margin-top: 60px;
+}
+.team{
+    background-color: #F6F6F6;
+}
+.team h4{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    margin-top: 30px;
+}
+.team h5{
+    color: #707070;
+    font-size: 14px;
+    line-height: 24px;
+    padding-bottom: 20px;
+    border-bottom:1px solid #707070;
+}
+.team .icons{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.team .icons i{
+    color: #707070;
+}
+.team .icons i:hover{
+    color: #000;
+}
+.background{
+    background: url(/public/img/bg2.jpg);
+    color: #fff;
+    padding: 130px;
+}
+.background h3{
+    font-size: 50px;
+    line-height: 60px !important;
+    font-weight: 500;
+    width: 50%; 
+    margin:auto;  
+}
+.background .btn{
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.news{
+    padding-bottom: 100px;
+}
+.news .col-lg-12{
+    margin-bottom: 90px;
+    margin-top: 90px;
+}
+.news img{
+    margin-bottom: 30px;
+}
+.news .new a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #8BC34A;
+    font-size: 14px;
+    padding: 5px 10px;
+}
+.news .new h3{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 25px 0;
+}
+.news .new p{
+    font-size: 16px;
+    color: #707070;
+    padding-bottom: 30px;
+    border-bottom: 2px solid #eee8e8;
+}
+.news .new span{
+    font-size: 14px;
+    color: #707070;
+}
+.contact .col-lg-12{
+    margin-bottom: 90px;
+    margin-top: 60px;
+}
+.contact .icon{
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #8BC34A;
+}
+.contact .base{
+    color: #707070;
+    font-size: 16px;
+    line-height: 24px;
+}
+.location{
+    margin-top: 70px;
+}
+.slider{
+    background-color: #F7F7F7 ;
+    padding: 110px;
+}

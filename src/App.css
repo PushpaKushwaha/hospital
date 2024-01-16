@@ -1,0 +1,23 @@
+#heading p {
+  line-height: 30px;
+  font-size: 18px;
+  color: #707070;
+  width: 60%;
+  margin: auto;
+  }
+ 
+#heading h2 {
+  text-transform: capitalize;
+  font-size: 35px;
+  line-height: 39px;
+  font-weight: 700;
+  margin-bottom: 2%;
+  
+}
+.about .col-lg-12{
+  margin: 90px 0;
+}
+
+
+
+ 

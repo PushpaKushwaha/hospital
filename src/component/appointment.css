@@ -1,0 +1,34 @@
+.appointment{
+    background-color: #8BC34A;
+    margin-top: 80px;
+}
+.appointment h2{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 30px;
+}
+/* .appointment a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+} */
+.appointment i{
+    color: #fff;
+    margin-left: 10px;
+}
+.appointment button{
+    border-radius: 30px;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #8BC34A;
+    font-weight: 600;
+}
+.appointment button:hover{
+    color: gray;
+}
+.appointment a i:hover{
+    color: gray;
+}
